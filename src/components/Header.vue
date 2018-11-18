@@ -9,7 +9,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg:"Vue Js Project"
+      msg:"My Project"
     }
   },
   methods: {
